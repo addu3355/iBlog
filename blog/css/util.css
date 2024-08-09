@@ -1,0 +1,15 @@
+.max-width-1{
+    width: 85vw;
+    
+}
+.max-width-2{
+    width: 65vw;
+    
+}
+.m-auto{
+    margin: auto;
+}
+.my-2{
+    margin-top: 12px;
+    margin-bottom: 10px;
+}

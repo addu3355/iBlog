@@ -1,0 +1,33 @@
+.contact-content{
+    display: block;
+    margin-top: 10px;
+    height: 80vh;
+}
+.contact-form{
+    padding-left: 10px;
+    margin-top: 15px;
+}
+.form-box input,textarea{
+    width: 550px;
+    margin: 5px;
+    padding: 8px;
+    border: 3px solid rgb(170, 148, 90);
+    border-radius: 4px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+.form-box button{
+    width: 100px;
+    padding: 5px;
+    border: 3px solid rgb(78, 68, 42);
+    border-radius: 3px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight:bolder ;
+    margin: 5px;
+
+}
+.form-box button:hover{
+    background-color:palegoldenrod;
+}
